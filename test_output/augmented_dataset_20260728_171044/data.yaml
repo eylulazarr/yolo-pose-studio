@@ -1,0 +1,28 @@
+path: /Users/eylulazar/Desktop/yolo-pose-studio/test_output/augmented_dataset_20260728_171044
+train: images
+val: images
+test: images
+names:
+  0: person
+  1: squat
+kpt_shape:
+- 17
+- 3
+flip_idx:
+- 0
+- 2
+- 1
+- 4
+- 3
+- 6
+- 5
+- 8
+- 7
+- 10
+- 9
+- 12
+- 11
+- 14
+- 13
+- 16
+- 15

@@ -1,0 +1,34 @@
+============================================================================
+YOLO POSE DATA AUGMENTATION RAPORU
+============================================================================
+
+GENEL SONUÇLAR
+----------------------------------------------------------------------------
+Kaynak eşleşen görsel sayısı: 10
+Üretilen toplam görsel sayısı: 20
+Üretilen toplam label sayısı: 20
+Atlanan görsel sayısı: 0
+
+AYARLAR
+----------------------------------------------------------------------------
+Her görsel için augmentation kopyası: 1
+Random seed: 42
+Horizontal flip: Açık
+Brightness/contrast: Açık
+Rotation: Açık
+Scale: Açık
+Translation: Açık
+Blur: Kapalı
+Noise: Kapalı
+
+UYGULANAN İŞLEM SAYILARI
+----------------------------------------------------------------------------
+Horizontal flip: 4
+Brightness/contrast: 10
+Rotation/scale/translation: 10
+Blur: 0
+Noise: 0
+
+============================================================================
+RAPOR SONU
+============================================================================
